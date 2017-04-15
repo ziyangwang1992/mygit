@@ -8,3 +8,4 @@ master and feature1 modify
 =======
 master and feature1 modify
 >>>>>>> feature1
+add merge
