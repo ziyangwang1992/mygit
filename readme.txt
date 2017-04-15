@@ -10,3 +10,4 @@ master and feature1 modify
 >>>>>>> feature1
 add merge
 now I'm debugging
+debug over
