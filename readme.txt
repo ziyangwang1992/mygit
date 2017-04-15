@@ -3,4 +3,8 @@ Hello world!
 wzy
 remote
 Switched to a new branch 'deve'
-master modify
+<<<<<<< HEAD
+master and feature1 modify
+=======
+master and feature1 modify
+>>>>>>> feature1
